@@ -14,7 +14,7 @@ The project has been configured to use Node.js 16.x, which is fully compatible w
 ### Changes Made
 1. **Created `.nvmrc`** - Specifies Node.js 16 for local development
 2. **Updated `vercel.json`** - Added `nodeVersion: "16.x"` for Vercel deployments
-3. **Updated `package.json`** - Added `engines` field to document Node.js version requirements
+3. **Updated `package.json`** - Added `engines` field specifying Node.js 16.x consistently
 
 ### For Local Development
 If using nvm (Node Version Manager):
