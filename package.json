@@ -2,6 +2,11 @@
   "name": "brapi",
   "version": "2.2.0",
   "private": false,
+  "engines": {
+    "node": "16.x",
+    "npm": ">=6.0.0",
+    "yarn": ">=1.22.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
