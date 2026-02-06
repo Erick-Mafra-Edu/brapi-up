@@ -1,4 +1,7 @@
 {
+  "buildCommand": "yarn run build",
+  "framework": "nextjs",
+  "nodeVersion": "16.x",
   "headers": [
     {
       "source": "/api/(.*)",
