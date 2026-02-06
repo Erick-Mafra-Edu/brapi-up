@@ -1,5 +1,5 @@
 {
-  "nodeVersion": "16.x",
+  "nodeVersion": "18.x",
   "headers": [
     {
       "source": "/api/(.*)",
